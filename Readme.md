@@ -3,6 +3,8 @@
 > [!IMPORTANT]
 > Our Software Development Project (**SDP200**) course focuses on **Python**, and we need to learn the fundamentals of Python to complete a mini-project by the end of the semester. I studied Python _about_ six years ago, and a lot has changed since then. That is why I am relearning Python and documenting my findings, insights, and best practices in this repository.
 
+📌 [**Jump to the resources**](#useful-resources)
+
 ## Installation
 
 Different projects require different packages that might depend on specific versions of Python. **It is a good idea to have multiple versions of Python installed on the system.** Therefore, we can switch to a particular version whenever necessary.
@@ -194,3 +196,19 @@ In order to enable the formatting of `.py` files, do the following:
         "editor.formatOnSave": true
     }
     ```
+
+## Useful Resources
+
+[![youtube logo](./images/yt.svg) **How to Install and Run Multiple Python Versions on Windows 10/11 | pyenv & virtualenv Setup Tutorial**](https://www.youtube.com/watch?v=HTx18uyyHw8)
+
+[![youtube logo](./images/yt.svg) **Python Virtual Environments - Full Tutorial for Beginners**](https://www.youtube.com/watch?v=Y21OR1OPC9A)
+
+[![youtube logo](./images/yt.svg) **Python Full Course for Beginners [2025]**](https://www.youtube.com/watch?v=K5KVEU3aaeQ)
+
+[![youtube logo](./images/yt.svg) **5 Useful F-String Tricks In Python**](https://www.youtube.com/watch?v=EoNOWVYKyo0)
+
+[![youtube logo](./images/yt.svg) **5 Good Python Habits**](https://www.youtube.com/watch?v=I72uD8ED73U)
+
+[![youtube shorts logo](./images/yts.svg) **Python Sets are OP!!**](https://www.youtube.com/shorts/32XIgqI3E0I)
+
+[![youtube shorts logo](./images/yts.svg) **CLEVER Python One Liner!!**](https://www.youtube.com/shorts/-VuLJVt-FXw)
