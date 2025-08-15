@@ -11,7 +11,7 @@ Different projects require different packages that might depend on specific vers
 
 📌 [**Video Tutorial on YouTube**](https://youtu.be/HTx18uyyHw8?t=55)
 
-1. Press the **[Windows Key]** and type **Powershell**. Run it as Administrator.
+1. Press the <kbd>⊞ Windows</kbd> key and type **Powershell**. Run it as Administrator.
 
     ![Step one](images/00.png)
 
@@ -149,6 +149,18 @@ When starting a new Python project, it is important to isolate its dependencies 
 
 ## Installing Dependencies
 
+Command to install a specific package:
+
+```bash
+pip install [PACKAGE]
+```
+
+Command to uninstall a specific package:
+
+```bash
+pip uninstall [PACKAGE]
+```
+
 Command to list all installed dependencies:
 
 ```bash
@@ -166,3 +178,19 @@ Command to install the dependencies from file:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Formatting Python Code
+
+In order to enable the formatting of `.py` files, do the following:
+
+1. Install **Black Formatter** from the [**Visual Studio Marketplace**](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter).
+
+2. Press <kbd>^ CTRL</kbd> + <kbd>⇧ Shift</kbd> + <kbd>P</kbd> to open the **Command Palette** and run **Preferences: Open User Settings (JSON)**.
+
+3. Add the following to the `setting.json` file:
+    ```json
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+    }
+    ```
