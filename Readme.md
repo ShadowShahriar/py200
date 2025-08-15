@@ -187,7 +187,7 @@ In order to enable the formatting of `.py` files, do the following:
 
 2. Press <kbd>^ CTRL</kbd> + <kbd>⇧ Shift</kbd> + <kbd>P</kbd> to open the **Command Palette** and run **Preferences: Open User Settings (JSON)**.
 
-3. Add the following to the `setting.json` file:
+3. Add the following to the `settings.json` file:
     ```json
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter",
