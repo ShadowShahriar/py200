@@ -1,0 +1,97 @@
+# ============================
+# === virtual environments ===
+# ============================
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ======================
+# === cache and DLLs ===
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==========================
+# distribution and packaging
+# ==========================
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ============================
+# === PyInstaller specific ===
+# ============================
+*.manifest
+*.spec
+
+# ====================
+# === pip specific ===
+# ====================
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ==================================
+# === tests and coverage reports ===
+# ==================================
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# ====================
+# === type checker ===
+# ====================
+.pyre/
+
+# ============================
+# === cython debug symbols ===
+# ============================
+cython_debug/
+
+# ====================================
+# === Jupyter Notebook checkpoints ===
+# ====================================
+.ipynb_checkpoints
+
+# ===================
+# === OS specific ===
+# ===================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =================
+# == test files ===
+# =================
+/test.py
+
+# ===================
+# == temp folders ===
+# ===================
+/.old
+/.temp
