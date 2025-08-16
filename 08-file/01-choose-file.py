@@ -7,4 +7,4 @@ f = filedialpy.openFile(
     filter=["*.txt *.json", "*.txt", "*.json"],
 )
 
-print(f)
+print(f or "None")
