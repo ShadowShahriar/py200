@@ -10,6 +10,7 @@
 		"**/.gitignore": true,
 		"**/LICENSE": true,
 		"env": true,
-		"**/desktop.ini": true
+		"**/desktop.ini": true,
+		"**/__pycache__": true
 	}
 }
