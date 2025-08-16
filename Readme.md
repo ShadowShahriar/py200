@@ -212,3 +212,9 @@ In order to enable the formatting of `.py` files, do the following:
 [![youtube shorts logo](./images/yts.svg) **Python Sets are OP!!**](https://www.youtube.com/shorts/32XIgqI3E0I)
 
 [![youtube shorts logo](./images/yts.svg) **CLEVER Python One Liner!!**](https://www.youtube.com/shorts/-VuLJVt-FXw)
+
+[![youtube logo](./images/yt.svg) **Changing the title bar color of tkinter windows**](https://www.youtube.com/watch?v=36PpT4Z22Os)
+
+[![youtube logo](./images/yt.svg) **An introduction to customtkinter [way better styling in tkinter]**](https://www.youtube.com/watch?v=MvzK9Oguxcg)
+
+[![youtube logo](./images/yt.svg) **Make Tkinter Look 10x Better in 5 Minutes (CustomTkinter)**](https://www.youtube.com/watch?v=Miydkti_QVE)
