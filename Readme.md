@@ -218,3 +218,7 @@ In order to enable the formatting of `.py` files, do the following:
 [![youtube logo](./images/yt.svg) **An introduction to customtkinter [way better styling in tkinter]**](https://www.youtube.com/watch?v=MvzK9Oguxcg)
 
 [![youtube logo](./images/yt.svg) **Make Tkinter Look 10x Better in 5 Minutes (CustomTkinter)**](https://www.youtube.com/watch?v=Miydkti_QVE)
+
+[![youtube shorts logo](./images/yts.svg) **ALL Python Programmers Should Know This!!**](https://www.youtube.com/shorts/g9fIWtSexLs)
+
+[![youtube logo](./images/yt.svg) **PLEASE Learn These 10 Advanced Python Features**](https://youtu.be/6ViGc5NgdSw)
