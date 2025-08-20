@@ -222,3 +222,13 @@ In order to enable the formatting of `.py` files, do the following:
 [![youtube shorts logo](./images/yts.svg) **ALL Python Programmers Should Know This!!**](https://www.youtube.com/shorts/g9fIWtSexLs)
 
 [![youtube logo](./images/yt.svg) **PLEASE Learn These 10 Advanced Python Features**](https://youtu.be/6ViGc5NgdSw)
+
+[![youtube shorts logo](./images/yts.svg) **CLEAN Python Input Handling!!**](https://www.youtube.com/watch?v=-Xswnq39Q3M)
+
+[![youtube shorts logo](./images/yts.svg) **Python User Input Tip!!**](https://www.youtube.com/watch?v=45A3zjM_09U)
+
+[![youtube shorts logo](./images/yts.svg) **Two VERY Useful List Functions!!**](https://www.youtube.com/watch?v=b-bTjOLmwcc)
+
+[![youtube shorts logo](./images/yts.svg) **What are Python DECORATORS??**](https://www.youtube.com/watch?v=n-Rf3EJ_WaU)
+
+[![youtube shorts logo](./images/yts.svg) **LEVEL UP Your Python Game!!**](https://www.youtube.com/watch?v=Ht_LdGroNZE)
