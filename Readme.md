@@ -232,3 +232,5 @@ In order to enable the formatting of `.py` files, do the following:
 [![youtube shorts logo](./images/yts.svg) **What are Python DECORATORS??**](https://www.youtube.com/watch?v=n-Rf3EJ_WaU)
 
 [![youtube shorts logo](./images/yts.svg) **LEVEL UP Your Python Game!!**](https://www.youtube.com/watch?v=Ht_LdGroNZE)
+
+[![youtube logo](./images/yt.svg) **EASY Way to Use SOUNDS in Python/PyGame Projects**](https://www.youtube.com/watch?v=3Yhhzflmxfs&t=55s)
