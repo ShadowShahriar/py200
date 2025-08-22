@@ -5,6 +5,46 @@
 
 📌 [**Jump to the resources**](#useful-resources)
 
+## Usage
+
+Since some of you were clueless about how to use this repository for learning, here is an overview:
+
+-   Install **pyenv** and one or multiple versions of **Python** by following the [**Installation section**](#installation). This needs to be done only once.
+
+Open a new Command Prompt by typing **cmd** in the Start menu and do the following:
+
+-   Select a preferred global version of Python:
+
+    ```bash
+    pyenv global [VERSION]
+    ```
+
+    _\* I am using Python **3.10.10**_
+
+-   Create a virtual environment in your project directory:
+
+    ```bash
+    python -m venv env
+    ```
+
+-   Activate the virtual environment:
+
+    ```bash
+    env\Scripts\activate.bat
+    ```
+
+-   Install the required packages:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+Having done that, we can run any script from this repository. Let's say, we want to run `03-f-string/01-huge-int.py`, so we can type:
+
+```
+python 03-f-string/01-huge-int.py
+```
+
 ## Installation
 
 Different projects require different packages that might depend on specific versions of Python. **It is a good idea to have multiple versions of Python installed on the system.** Therefore, we can switch to a particular version whenever necessary.
@@ -180,6 +220,13 @@ Command to install the dependencies from file:
 ```bash
 pip install -r requirements.txt
 ```
+
+## VSCode Extensions for Python Development
+
+-   [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
+-   [**Python for VSCode**](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+-   [**Python Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
+-   [**Python Environments**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs)
 
 ## Formatting Python Code
 
