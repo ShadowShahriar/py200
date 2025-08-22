@@ -17,4 +17,5 @@ pytz==2025.2
 pywin32==311
 seaborn==0.13.2
 six==1.17.0
+tkextrafont==0.6.3
 tzdata==2025.2
