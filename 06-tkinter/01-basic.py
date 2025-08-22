@@ -4,7 +4,7 @@ import sys
 
 script_path = path.abspath(__file__)
 script_dir = path.dirname(script_path)
-icon_path = path.join(script_dir, "favicon.ico")
+icon_path = path.join(script_dir, "assets", "favicon.ico")
 
 print(script_dir)
 print(sys.path[0])
