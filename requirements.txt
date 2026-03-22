@@ -76,7 +76,7 @@ tf_keras==2.19.0
 tkextrafont==0.6.3
 tokenizers==0.22.0
 toml==0.10.2
-tornado==6.5.2
+tornado==6.5.5
 tqdm==4.67.1
 transformers==4.56.0
 typing_extensions==4.15.0
