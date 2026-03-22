@@ -46,7 +46,7 @@ optree==0.17.0
 packaging==25.0
 pandas==2.3.2
 pillow==12.1.1
-protobuf==5.29.5
+protobuf==5.29.6
 pyarrow==21.0.0
 pydeck==0.9.1
 pygame==2.6.1
