@@ -78,7 +78,7 @@ tokenizers==0.22.0
 toml==0.10.2
 tornado==6.5.5
 tqdm==4.67.1
-transformers==4.56.0
+transformers==5.0.0rc3
 typing_extensions==4.15.0
 tzdata==2025.2
 urllib3==2.6.3
